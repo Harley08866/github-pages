@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Oi Mate Coin</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #121212;
+      color: #fff;
+      text-align: center;
+    }
+    header {
+      background: #1f1f1f;
+      padding: 20px;
+    }
+    header img {
+      width: 100px;
+    }
+    h1 {
+      margin: 10px 0;
+    }
+    .buy-now {
+      background: #ff4081;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 1.2em;
+    }
+    .section {
+      padding: 40px 20px;
+    }
+    .section h2 {
+      margin-bottom: 20px;
+    }
+    footer {
+      background: #1f1f1f;
+      padding: 10px;
+      font-size: 0.8em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- Replace "logo.png" with the URL or path to your Oi Mate Coin logo -->
+    <img src="logo.png" alt="Oi Mate Coin Logo" />
+    <h1>Oi Mate Coin</h1>
+  </header>
+  
+  <div class="section" id="intro">
+    <p>The most British meme coin ever. Oi, mate! Let’s moon!</p>
+    <!-- Link this button to your exchange page (PancakeSwap/Uniswap) when ready -->
+    <a href="#" class="buy-now">Buy Now</a>
+  </div>
+  
+  <div class="section" id="tokenomics">
+    <h2>Tokenomics</h2>
+    <p>Total Supply: 1,000,000 OMC</p>
+    <p>Distribution: 50% Community, 25% Liquidity, 25% Development</p>
+  </div>
+  
+  <div class="section" id="roadmap">
+    <h2>Roadmap</h2>
+    <ul style="list-style: none; padding: 0;">
+      <li>Phase 1: Launch & Community Building</li>
+      <li>Phase 2: Exchange Listings</li>
+      <li>Phase 3: NFT Drop & Partnerships</li>
+    </ul>
+  </div>
+  
+  <div class="section" id="community">
+    <h2>Join Our Community</h2>
+    <p>
+      <a href="#">Twitter</a> | 
+      <a href="#">Telegram</a> | 
+      <a href="#">Discord</a>
+    </p>
+  </div>
+  
+  <footer>
+    <p>&copy; 2025 Oi Mate Coin. All rights reserved.</p>
+  </footer>
+</body>
+</html>
